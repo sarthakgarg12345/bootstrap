@@ -4,9 +4,9 @@
 }
 	.row-content{
 		margin: 0px auto;
-		padding: 50px 0px 50px 0px;
-		border-bottom: 1px ridge;
-		min-height: 400px;
+		padding: 20px 0px 20px 0px;
+		border-bottom: 1px ;
+		min-height: 100px ridge;
 
 	}
 	.footer {
@@ -16,7 +16,7 @@
 	}
 	.jumbotron{
 		padding: 70px 30px 70px 30px;
-		margin: 0px auto;
+		margin: 0px 0px 0px 0px;
 		background-color: #9575CD;
 		color: floralwhite;
 	}
@@ -24,4 +24,27 @@
 		font-size: 80%;
 		margin: 0px;
 		color: #0f0f0f;
+	}
+	.leftbar{
+  padding: 20px 20px 330px 20px;
+  width: 600px;
+  height: 200px;
+  text-align: justify;
+
+	}
+	
+	.padeleft{
+		padding-left: 20px;
+		font-size: 90%;
+	}
+	.left{
+		padding-bottom: 40px;
+	     text-align: justify;
+	}
+	body{
+		padding: 50px 0px 0px 0px;
+		z-index: 0;
+	}
+	.navbar-dark{
+		background-color: #512DA8;
 	}
